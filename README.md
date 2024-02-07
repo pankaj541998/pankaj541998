@@ -13,10 +13,7 @@
   <img src="https://streak-stats.demolab.com?user=pankaj541998&locale=en&include_all_commits=true&mode=daily&theme=dark&hide_border=false&border_radius=5" height="300"  alt="streak graph"  />
 </div>
 <!--
-*14Sandee/14Sandee* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
